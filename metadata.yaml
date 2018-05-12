@@ -1,0 +1,39 @@
+_repo: Tales-from-the-Lands-of-Nuts-and-Grapes--Spanish-and-Portuguese-Folklore-_31481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellers, Charles
+    gutenberg_agent_id: '35266'
+    url: http://www.gutenberg.org/2009/agents/35266
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31481'
+  lccn: 09027866
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Spanish'
+- !lcsh 'Children''s stories, Portuguese'
+- !lcsh 'Tales -- Spain'
+- !lcsh 'Tales -- Portugal'
+- !lcsh 'Folklore -- Portugal'
+- !lcsh 'Folklore -- Spain'
+- !lcsh 'Fairy tales'
+- !lcc 'GR'
+- !lcc 'PZ'
+tableOfContents: The ingenious student -- The ugly princess -- The wolf-child -- The
+  magic mirror -- The black slave -- The legend of St. Bartholomew -- The white cat
+  of Ecija -- The church auctioneer and clown of Villar -- The wise king of Leon --
+  The cobbler of Burgos -- Barbara, the grazier's wife -- The watchful servant --
+  Silver bells -- King Robin -- The wicked king -- The palace of the enchanted Moors
+  -- The seven pigeons -- Lady Clare -- Good St. James, and the merry barber of Compostella
+  -- Elvira, the sainted princess -- The enchanted mule.
+title: Tales from the Lands of Nuts and Grapes (Spanish and Portuguese Folklore)
+url: http://www.gutenberg.org/ebooks/31481
